@@ -1,6 +1,6 @@
 # flutter_responsive_ui
 
-A new Flutter project.
+By Galva
 
 ## Getting Started
 
